@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.9_AvisoFesta2\bin\release\net5.0\cs_1.9_AvisoFesta2.exe
+E:\GitHub\cs_1.9_AvisoFesta2\bin\release\net5.0\cs_1.9_AvisoFesta2.deps.json
+E:\GitHub\cs_1.9_AvisoFesta2\bin\release\net5.0\cs_1.9_AvisoFesta2.runtimeconfig.json
+E:\GitHub\cs_1.9_AvisoFesta2\bin\release\net5.0\cs_1.9_AvisoFesta2.runtimeconfig.dev.json
+E:\GitHub\cs_1.9_AvisoFesta2\bin\release\net5.0\cs_1.9_AvisoFesta2.dll
+E:\GitHub\cs_1.9_AvisoFesta2\bin\release\net5.0\ref\cs_1.9_AvisoFesta2.dll
+E:\GitHub\cs_1.9_AvisoFesta2\bin\release\net5.0\cs_1.9_AvisoFesta2.pdb
+E:\GitHub\cs_1.9_AvisoFesta2\obj\release\net5.0\cs_1.9_AvisoFesta2.csprojAssemblyReference.cache
+E:\GitHub\cs_1.9_AvisoFesta2\obj\release\net5.0\cs_1.9_AvisoFesta2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.9_AvisoFesta2\obj\release\net5.0\cs_1.9_AvisoFesta2.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.9_AvisoFesta2\obj\release\net5.0\cs_1.9_AvisoFesta2.AssemblyInfo.cs
+E:\GitHub\cs_1.9_AvisoFesta2\obj\release\net5.0\cs_1.9_AvisoFesta2.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.9_AvisoFesta2\obj\release\net5.0\cs_1.9_AvisoFesta2.dll
+E:\GitHub\cs_1.9_AvisoFesta2\obj\release\net5.0\ref\cs_1.9_AvisoFesta2.dll
+E:\GitHub\cs_1.9_AvisoFesta2\obj\release\net5.0\cs_1.9_AvisoFesta2.pdb
+E:\GitHub\cs_1.9_AvisoFesta2\obj\release\net5.0\cs_1.9_AvisoFesta2.genruntimeconfig.cache
